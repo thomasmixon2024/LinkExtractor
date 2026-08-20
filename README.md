@@ -6,6 +6,8 @@ It supports high-quality video/audio extraction, batch processing, logging, and 
 ---
 
 ## Features
+- Interactive on-screen usage tutorial & code examples
+- Interactive Help & Usage Tutorial section
 
 - MP4 extraction (best compatibility)
 - Highest-quality raw video extraction
@@ -64,3 +66,4 @@ MIT License
 
 Thomas Mixon  
 GitHub: https://github.com/thomasmixon2024
+
