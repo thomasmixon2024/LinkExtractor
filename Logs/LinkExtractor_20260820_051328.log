@@ -1,0 +1,6 @@
+[2026-08-20 05:13:28] [INFO] Directory enforcement passed. RootDir='C:\Users\thoma\Documents\LinkExtractor' LogsDir='C:\Users\thoma\Documents\LinkExtractor\Logs' IngestDir='C:\Users\thoma\Videos\LinkExtractor'
+[2026-08-20 05:13:28] [INFO] Working directory confirmed: C:\Users\thoma\Documents\LinkExtractor
+[2026-08-20 05:13:29] [INFO] Running pre-flight dependency checks.
+[2026-08-20 05:13:29] [WARN] Network pre-flight check timed out or interface is offline.
+[2026-08-20 05:13:29] [INFO] Pre-flight checks passed (yt-dlp + ffmpeg present).
+[2026-08-20 05:13:46] [INFO] Session ended by user.
